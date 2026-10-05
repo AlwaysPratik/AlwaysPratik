@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 Hello World, I'm Pratik Raut! 
+# 💫 Hello, I'm Pratik Raut! 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vcenter=true&width=550&lines=Software+Engineer+%26+Mobile+Developer;Flutter+%26+Android+Specialist;Full+Stack+Web+Developer+(React+%26+Next.js);AI+%2F+Computer+Vision+Enthusiast;Building+clean%2C+scalable+products)](https://git.io/typing-svg)
 
